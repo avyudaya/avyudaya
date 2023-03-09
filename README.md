@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack web developement.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me at: avyudaya1@gmail.com
+- 📫 Reach me at: avyudaya7@gmail.com
 - 🌍 Check my website at: https://portfolio-avyudaya1.vercel.app/
 
 <!---
