@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avyudaya
-- 👀 I’m interested in full-stack web developement.
-- 🌱 I’m currently learning Spring Framework.
+- 👀 I’m interested in full-stack web development.
+- 🌱 I’m currently using Spring Framework and Go programming to develop backends.
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach me at: avyudaya7@gmail.com
 - 🌍 Check my website at: https://portfolio-avyudaya1.vercel.app/
