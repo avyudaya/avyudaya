@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @avyudaya
-- 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently using Spring Framework and Go programming to develop backends.
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 Reach me at: avyudaya7@gmail.com
-- 🌍 Check my website at: https://portfolio-avyudaya1.vercel.app/
+Full-stack Software Engineer (Java | Spring | Python | React | Docker | Kubernetes)
+I’m a results-driven Software Engineer with 3+ years of experience building scalable backend services, cloud-native applications, and full-stack solutions. I’ve worked with international teams (Nepal ↔ Norway/USA) to deliver high-quality products in healthcare, music streaming, and enterprise systems.
 
-<!---
-avyudaya/avyudaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I bring:
+Strong backend expertise: Java, Spring, REST APIs, microservices
+Frontend experience with React & modern JavaScript
+Cloud & DevOps skills: Docker, Kubernetes, AWS (CloudWatch), CI/CD
+Experience leading backend architecture and cross-team communication
+
+Proven impact:
+Reduced downtime by 40% using Kubernetes
+Improved system stability by 20% through log-driven debugging
+Increased CMS efficiency by 35% on client project
+Delivered MERN training to 100+ students (100% pass rate)
+
+I love solving challenging engineering problems and helping businesses build stable, scalable, and efficient software systems. If you need someone reliable, communicative, and committed to impact—let’s work together.
